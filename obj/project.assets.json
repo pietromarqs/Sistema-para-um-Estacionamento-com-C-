@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\DotNetC#\\DesafioProjeto 01\\DesafioFundamentos.csproj",
+      "projectUniqueName": "C:\\Workspace\\DotNetC#\\DesafioProjeto 01\\Sistema-para-um-Estacionamento-com-C-\\DesafioFundamentos.csproj",
       "projectName": "DesafioFundamentos",
-      "projectPath": "C:\\Workspace\\DotNetC#\\DesafioProjeto 01\\DesafioFundamentos.csproj",
+      "projectPath": "C:\\Workspace\\DotNetC#\\DesafioProjeto 01\\Sistema-para-um-Estacionamento-com-C-\\DesafioFundamentos.csproj",
       "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\DotNetC#\\DesafioProjeto 01\\obj\\",
+      "outputPath": "C:\\Workspace\\DotNetC#\\DesafioProjeto 01\\Sistema-para-um-Estacionamento-com-C-\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config"
